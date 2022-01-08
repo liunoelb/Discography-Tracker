@@ -1,0 +1,32 @@
+[albums]
+gst1;goreshit;Gnb;2011-11-01
+gst2;goreshit;Rituals;2013-10-02
+gst3;goreshit;Mlsfaw;2014-11-24
+gst4;goreshit;Semantics;2015-08-31
+gst5;goreshit;My Love Feels All Wrong;2015-04-01
+[tracks]
+Fine Night;5:16;gst1;y9ygGm_rwpg
+Dreamer;4:24;gst1;LyCHcn5aJTw
+Lonely;5:47;gst1;Sdr-3P13Ppo
+Hold My Hand;4:46;gst1;L91V7ifu0X0
+Unnatural;6:22;gst1;p9zGPm2de1Q
+Xenobeat;2:32;gst2;chm9YSyB3iU
+Game Over.;5:35;gst2;FXeSrqYp5v0
+Come Find Me;5:55;gst2;z76cse11f3s
+The Devil's Work;7:28;gst2;null
+Cause/Effect;5:21;gst2;null
+Fleshbound;6:16;gst2;siCf8EW3_MA
+Ahh! my dnb!!;5:07;gst3;pRy7h91JYH8
+Return to the nhk;7:49;gst3;1UBHrnNTMjI
+Burn This Moment Into the Retina of My Eye;6:24;gst4;tNkh4zkUWEs
+There Are No Angels Here.;5:33;gst4;4527rYlijoU
+Benzo (With Me Eternal);6:03;gst4;STD1t3kcQOY
+The Pain of Relief (We Have Our Vices One and All);5:17;gst4;-OR979RU4Og
+Antiemetics;3:33;gst4;null
+Broken Promises/Shattered Dreams;3:20;gst4;SR0I4LXfR5Q
+One Way to Hannover;8:04;gst4;null
+The Nature of Dying;6:00;gst4;uGqdFJl2OCQ
+O'er the Flood;6:22;gst4;TKqBTF4hSvI
+Loomig Shadow of a Tree Long Gone;5:28;gst4;a1ubhabPJFw
+Nhk!?;4:34;gst5;DOTFVhfDBCk
+Toromi Hearts 2;3:31;gst5;pk5F3q5UiWQ

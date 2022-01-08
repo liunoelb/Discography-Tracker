@@ -1,0 +1,15 @@
+﻿--CREATE DATABASE music;
+--USE music;
+
+CREATE TABLE albums(
+id VARCHAR(4) PRIMARY KEY,
+artist VARCHAR(255) NOT NULL,
+title VARCHAR(255) NOT NULL,
+release DATE);
+
+CREATE TABLE tracks(
+id INT PRIMARY KEY IDENTITY,
+title VARCHAR(255) NOT NULL,
+length TIME,
+album VARCHAR(4) FOREIGN KEY REFERENCES albums(id),
+url VARCHAR(30));
